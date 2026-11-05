@@ -1,7 +1,7 @@
 # Gikomba Market Stall Performance Analysis
 
-**Full Name: PAULINE MAGEMBE MOSE 
-**Cohort: 1MillionDevs Cohort
+Full Name: PAULINE MAGEMBE MOSE 
+Cohort: 1MillionDevs Cohort
 
 ## Project Overview
 
